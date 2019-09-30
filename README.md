@@ -1,0 +1,2 @@
+# trainingdtn
+Magento 1
